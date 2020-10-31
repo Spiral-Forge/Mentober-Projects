@@ -2,7 +2,8 @@ PROJECT NAME-
 RESTAURANT WEBSITE
 Name of Website- HUNGRY BIRD CRAVINGS
 
-DECRIPTION
+DESCRIPTION-
+
 It is a restaurant website which allows people to make use of different functionalities on the website. Website includes all such details which a person must know or good to know before visiting the restaurant itself.
 
 TECH STACK
